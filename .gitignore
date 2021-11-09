@@ -42,7 +42,6 @@ yarn-error.log*
 .idea
 .vscode
 
-db/migrations
 
 # Local Netlify folder
 .netlify
